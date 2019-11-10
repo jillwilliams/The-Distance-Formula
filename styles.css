@@ -1,0 +1,47 @@
+body {
+    font-family: "Liu Jian Mao Cao", cursive;
+    letter-spacing: 4px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(skyblue, darkgrey);
+    text-shadow: 1px 1px 2px black;
+}
+h1 {
+    text-align: center;
+
+}
+/* IMAGE-FORMULA */
+#img1, #img2, #img3, #img4, #img5 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 1px aqua solid;
+    outline: 1px black solid;
+}
+#myBtn {
+    width: 10%;
+    height: 70px;
+    border: 1px aqua solid;
+    outline: 1px black solid;
+    font-size: 1rem;
+    font-family: "Liu Jian Mao Cao", cursive;
+
+}
+#demo, #demo2, #demo3 {
+    width: 10%;
+    height: 70px;
+    border: 1px aqua solid;
+    outline: 1px black solid;
+    font-size: 1rem;
+    font-family: "Liu Jian Mao Cao", cursive;
+    background-color: white;
+    color: black;
+
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+    color: black;
+}
