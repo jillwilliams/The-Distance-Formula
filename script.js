@@ -10,3 +10,9 @@ const myProblem2 = ( ) =>{
 const myCalc2 = () => {
     document.getElementById("demo2").innerHTML = myProblem2();
 };
+const myProblem3 = ( ) =>{
+    return "17.0";
+};
+const myCalc3 = () => {
+    document.getElementById("demo3").innerHTML = myProblem3();
+};

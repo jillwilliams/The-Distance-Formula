@@ -9,7 +9,6 @@ body {
 }
 h1 {
     text-align: center;
-
 }
 /* IMAGE-FORMULA */
 #img1, #img2, #img3, #img4, #img5 {
@@ -17,28 +16,35 @@ h1 {
     height: auto;
     margin-left: 35%;
     margin-right: 35%;
+    margin-top: 15px;
+    margin-bottom: 15px;
     border: 1px aqua solid;
     outline: 1px black solid;
 }
 #myBtn {
-    width: 10%;
+    width: 20%;
     height: 70px;
     border: 1px aqua solid;
     outline: 1px black solid;
     font-size: 1rem;
     font-family: "Liu Jian Mao Cao", cursive;
-
 }
 #demo, #demo2, #demo3 {
-    width: 10%;
-    height: 70px;
+    width: 20%;
+    height: 40px;
     border: 1px aqua solid;
     outline: 1px black solid;
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-family: "Liu Jian Mao Cao", cursive;
     background-color: white;
     color: black;
-
+    text-align: center;
+    padding: 10px;
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px aqua solid;
+    outline: 1px black solid;
 }
 footer {
     text-align: center;
